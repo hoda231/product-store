@@ -1,0 +1,18 @@
+.recommended-flex {
+    display: flex;
+    margin-left: 20rem;
+   gap: 4rem;
+  }
+  
+  .recommended-title {
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(147, 147, 152);
+  }
+  .recommended-flex.all
+ {
+  color: blueviolet;
+  background-image: url('../data/assets/expensive.jpg');
+ }

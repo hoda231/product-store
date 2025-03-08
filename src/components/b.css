@@ -1,0 +1,18 @@
+.btns{
+    color: rgb(111, 111, 111);
+    background-color: rgb(253, 253, 253);
+    border: 0cap;
+
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.btns:hover{
+
+text-shadow: 10cap;
+color: black;
+}
