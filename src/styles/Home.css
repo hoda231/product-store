@@ -1,0 +1,28 @@
+.but{
+
+
+  color: blue;
+}
+
+
+.menu .menuTitle {
+  font-family: cursive;
+  font-size: 60px;
+}
+
+.IMG{
+  height: 600px;
+ 
+
+}
+/* MENU ITEM STYLING */
+
+
+
+
+
+.menuItem h1,
+.menuItem p {
+  margin-left: 20px;
+}
+

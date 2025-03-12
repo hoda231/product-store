@@ -1,0 +1,25 @@
+
+.pro{
+    margin-left: 0%;
+}
+
+
+.pro img{
+    width: 570px;
+    height: 546px;
+border-radius: 5%;
+  margin-left:-900px;
+
+
+}
+.name{
+    margin-top:-400px;
+    margin-left:-100px;
+
+}
+.price{
+
+    margin-left:-100px;
+    font-size: xx-large;
+    color: brown;
+}

@@ -16,3 +16,8 @@
   color: blueviolet;
   background-image: url('../data/assets/expensive.jpg');
  }
+ @media only screen and (max-width: 900px) {
+  .recommended-flex {
+   margin-left: 0px;
+   gap: 2rem;
+  }}
